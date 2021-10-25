@@ -1,1 +1,1 @@
-Macarena Lopez Podesta 192.168.100.125 date +%T
+Macarena Lopez Podesta 192.168.100.125 date "+%T"
