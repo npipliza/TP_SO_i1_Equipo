@@ -3,3 +3,4 @@ a)- Si, veo los datos que cargaron los otros colaboradores
 b)- Si, me confirmaron que pueden verlos
 c)- Si, cree un archivo de prueba para comprobar y los demas integrantes lo pudieron ver
 d)- Nos comunicamos a traves del project de github y nos informamos por WhatsApp una vez finalizado cada punto
+e) La mejor forma de comunicarnos entre nosotras dentro de github fue utilizando la pestaña de Projects
