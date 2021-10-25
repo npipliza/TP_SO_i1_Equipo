@@ -1,1 +1,1 @@
-netstat -a ip_local_de_maquina
+Macarena Lopez Podesta echo 192.168.100.125 echo date +%T
